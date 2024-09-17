@@ -1,0 +1,9 @@
+# Ignore folders
+.idea/
+node_modules/
+
+# Ignore files
+package-lock.json
+
+# Ignore specific files inside folders
+database/connection.js
